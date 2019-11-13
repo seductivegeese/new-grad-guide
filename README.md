@@ -27,7 +27,7 @@ Try keeping your monthly credit card balance below 30% of your limit (by either 
 After about a year or so of history, it would be significantly easier to get a card from another company, including premium/travel cards like the Chase Sapphire.
   
   
-## 🇨🇦 While you wait for the job start
+## 🇨🇦 While you wait for the job to start
 
 ### 🏠 Housing and Relocation
 If you're planning to move to SF, Bay Area, or NYC, be prepared to pay a lot. You're going to be living in some of the most expensive and hottest real estate markets of today. You can look into what relocation benefits your employer provides. They might provide cash, a reimbursable amount, temporary housing, or a mixture of these benefits. They would at least make settling in a bit easier.
@@ -39,6 +39,7 @@ For companies that offer more than one relocation package, do some relocation ca
 Some useful places to look for rentals are Zillow, Craigslist, Padmapper. Don't hesitate to ask for a viewing, most agents are more than happy to accomodate.
 
 For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops: [Link](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC).
+
 
 ### 🎓 Degree fast-track
 
