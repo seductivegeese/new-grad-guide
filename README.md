@@ -1,42 +1,5 @@
 ## 👋Hello!
 
-You&#39;re probably here because you are going to be starting a tech job in the US!
-
-Adulting is hard and we&#39;re all trying to figure it out, so hopefully by sharing our experiences in what we hope to be a semi-coherent guide, we can make it easier for the next wave of new grads to start their careers.
-
-Some guidelines to make this less chaotic as more people help out -
-**#
-[ANNOTATION:
-
-BY &#39;Yu Chen Hou&#39;
-ON &#39;2019-09-20T21:20:53&#39;
-NOTE: &#39;We definitely need some help with the section on healthcare/vision/dental. &#39;
-NOTE: &#39;&#39;
-NOTE: &#39;Maybe someone can expand on how /when to find housing&#39;
-NOTE: &#39;&#39;
-NOTE: &#39;TBD&#39;] ****if you&#39;re adding new content, write away. If you disagree with existing content, add a comment, or make adjustments in suggestions so we can discuss!**
-
-Thanks!
-
--
---Deon &amp; Yu Chen &amp;
-#
-[ANNOTATION:
-
-BY &#39;Yu Chen Hou&#39;
-ON &#39;2019-09-21T19:06:40&#39;
-NOTE: &#39;Wendy&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Yu Chen Hou&#39;
-ON &#39;2019-09-20T21:20:04&#39;
-NOTE: &#39;Keeping tab of contributors here for now: +sunruotai95@gmail.com Tai, Ron, Alex Madrzyk...&#39;]
-Other contributors
-
-## Actual content below.
-
 Congratulations on starting real-life! This is a guide to hopefully help you transition from being a student to working full-time in the tech industry in the US.
 
 Adulting is hard and we&#39;re all trying to figure it out, so hopefully by sharing our experiences in what we hope to be a semi-coherent guide, we can make it easier for the next wave of new grads to start their careers.
