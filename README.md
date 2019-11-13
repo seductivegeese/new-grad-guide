@@ -20,26 +20,30 @@ These are generally outside of the scope of this guide, but we're linking to a f
 
 ## 🇨🇦 While you wait for the job start
 
-- Housing and Relocation
-  - _For SF, Bay Area, NYC interns:_ Shit's expensive
-  - Look into what relocation benefits your employer provides. They might provide cash, a reimbursable amount, temporary housing, or a mixture!
-  - Try to actually see the place before you sign a lease. This isn't an internship anymore, you'll be living there for more than four months and you'll want to enjoy the space - a video tour can only do so much.
-  - If you can't make it there though, try to send a friend for a video tour at the least.
-  - For companies that offer more than one relocation package, do some relocation calculations to see which one gives you more $$. For example, some lump sum amounts results in waaay more money than asking the company to ship stuff for you. (This is especially applicable if you already live relatively close to the state you're traveling to and if you already have housing secured)
-  - For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops:[https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC)
-- Degree fast-track
-  - If your start date is close to your graduating date, you might need to ask the Registrar's Office to fast-track your degree so that you can use it for your TN visa
-  - Otherwise you have to wait until convocation when you receive your diploma
-- Repaying Student Loans
+### Housing and Relocation
+If you're planning to move to SF, Bay Area, or NYC, be prepared to pay a lot. You're going to be living in some of the most expensive and hottest real estate markets of today. You can look into what relocation benefits your employer provides. They might provide cash, a reimbursable amount, temporary housing, or a mixture of these benefits. They would at least make settling in a bit easier.
+
+You should try to actually see the place before you sign a lease. This isn't an internship anymore, you'll be living there for more than four months and you'll want to enjoy the space - a video tour can only do so much. If you can't make it there though, try to send a friend for a video tour at the least.
+
+For companies that offer more than one relocation package, do some relocation calculations to see which one gives you more $$. For example, some lump sum amounts results in waaay more money than asking the company to ship stuff for you. (This is especially applicable if you already live relatively close to the state you're traveling to and if you already have housing secured)
+
+For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops:[https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC)
+
+### 🎓 Degree fast-track
+
+If your start date is close to your graduating date, you might need to ask the Registrar's Office to fast-track your degree so that you can use it for your TN visa. Otherwise you have to wait until convocation when you receive your diploma.
+
+You should aim to get the TN paperwork/petition process started two months before your employment start date. Use that time to travel! You could technically obtain a TN visa at the border without prior paperwork, but there's been a history of issues from Waterloo grads trying it, so it is preferable to avoid that route unless you have to.
+
+### 💸 Repaying Student Loans
   - OSAP
     - While you won't have to make a repayment until 6 months after the end of your last academic term (likely April 30 + 6 mo, so October 31), interest will accrue on the Canadian portion immediately after the end of your term and the Ontario portion once repayments should begin (starting 2019, interest will also accrue on the Ontario portion once the grace period starts)
     - The Ontario rate is prime (BoC) + 1%, Canada is prime + 2.5%, standard repayment is over 9.5 years
     - Student Loan Interest payments can be claimed on your Canadian tax return as part of your non-refundable tax credits **while you're a Canadian resident**.
-    -
-
+ 
 ## 🇺🇸 After arriving in the US
 
-- Driving License
+### 🚗 Driving License or State ID
   - Generally you need to get a resident state license ASAP (_Don't get pulled over… at least say you're a tourist_)
   - Washington State
     - If you're not a US Citizen you can drive with your foreign license for up to a year.
@@ -51,7 +55,7 @@ These are generally outside of the scope of this guide, but we're linking to a f
   - New York State
     - Why are you getting a driver's license?
     - You have 30 days after becoming a resident to transfer your Canadian license to a NY one
-- Tax
+### 🤑 Tax
   - US Residency
     - You become a US resident on the day you move, and will need to file 2 partial-year tax returns that year - an exit return in Canada and a resident return in the US (you'll also need to file a second US non-resident tax return for the beginning of the year if you worked in the US on a co-op term that year before moving).
       - Good readings:
@@ -93,35 +97,41 @@ These are generally outside of the scope of this guide, but we're linking to a f
   - Having a credit history is useful when applying for long-term leases, loans, mortgages etc. It's good to start this early (ie. during Coop if possible) and to build a good history (ie. making your payments on time - ideally the full balance).
   - The easiest way to start is by opening a credit card (cards like Discover or student cards are apparently easier to get - Secured cards are also an option, Capital One's doesn't have an annual fee).
   - Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score
-- General things to know about US benefits
-  - Health insurance networks?
-  - WTF are all these acronyms? (EPO, PPO, High Deductible)
-    - Copay:** When you receive a medical service, you have to pay the specified fee. There are different amounts for different services, and they should be outlined in the benefits package.
-    - Coinsurance:** When you receive a medical service, you have to pay a percentage of the medical bill.
-    - Deductible:** The amount of money you pay yourself before your healthcare plan starts paying for you (minus the copays/coinsurance fees). For example, if you have a health plan with a $250 annual deductible, then you are on the hook for the first $250 in fees. And then after that, you will only pay for the co-pay or co-insurance fees.
-    - Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
-    - In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
-    - What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
-    - Types of Health Plans**
-      - EPO: This type of plans tend to favor the provider's network, with discounted/cheap fees if you stay in the network, and very expensive to no coverage if you leave the network.
-      - PPO: This type of plans tend to favor the provider's network, with very low to no fees if you stay in the network, but you retain coverage if you leave the network.
-      - HMO: See EPO. HMOs typically handle the full lifecycle of your healthcare. For example, if you have a Kaiser HMO, to remain in-network, you must visit a Kaiser GP, specialists, hospitals, etc. Typically, you will also have to see your GP for a referral to a specialist.
-      - High Deductible Health Plans: You and your employer contribute money to an HSA (Healthcare Savings Account), which is used for your own medical expenses. The remaining funds will roll over every year, so this could be a good idea if your health is in a generally good shape. Downside: You generally will pay more money when you do claim insurance in the form of higher deductibles and coinsurance.
-  - (Retirement) Savings
-    - It's never too early to save for retirement / important investments such as a house later in life.
-    - 401k Matches and Vesting:**
+
+### 🏥 Health insurance, wtf?
+
+WTF are all these acronyms? (EPO, PPO, High Deductible)
+    - **Copay:** When you receive a medical service, you have to pay the specified fee. There are different amounts for different services, and they should be outlined in the benefits package.
+    - **Coinsurance:** When you receive a medical service, you have to pay a percentage of the medical bill.
+    - **Deductible:** The amount of money you pay yourself before your healthcare plan starts paying for you (minus the copays/coinsurance fees). For example, if you have a health plan with a $250 annual deductible, then you are on the hook for the first $250 in fees. And then after that, you will only pay for the co-pay or co-insurance fees.
+    - **Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
+    - **In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
+    - **What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
+   
+**Types of Health Plans**
+      - **EPO**: This type of plans tend to favor the provider's network, with discounted/cheap fees if you stay in the network, and very expensive to no coverage if you leave the network.
+      - **PPO**: This type of plans tend to favor the provider's network, with very low to no fees if you stay in the network, but you retain coverage if you leave the network.
+      - **HMO**: See EPO. HMOs typically handle the full lifecycle of your healthcare. For example, if you have a Kaiser HMO, to remain in-network, you must visit a Kaiser GP, specialists, hospitals, etc. Typically, you will also have to see your GP for a referral to a specialist.
+      - **High Deductible Health Plans (HDHP)**: You and your employer contribute money to an HSA (Healthcare Savings Account), which is used for your own medical expenses. The remaining funds will roll over every year, so this could be a good idea if your health is in a generally good shape. Downside: You generally will pay more money when you do claim insurance in the form of higher deductibles and coinsurance.
+
+### 👴(Retirement) Savings
+  - It's never too early to save for retirement / important investments such as a house later in life.
+    - 401k Matches and Vesting:
       - Generally speaking, a 401k is tied to your current employer.
     - [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it's a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
-    -
-[**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements.
+    - [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements.
     - M E G A BACKDOOR
-  - Various Pre-tax deductions
-    - Commuter Subsidy**: Many companies offer a pre-tax commuter account, which allows you to allocate pre-tax dollars towards commutes (usually transit, Uber Pool, Lyft Shared). Some even provide a monthly amount as a benefit.
-    - Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next.
+      - TBD.
+
+### Various Pre-tax deductions
+    - **Commuter Subsidy**: Many companies offer a pre-tax commuter account, which allows you to allocate pre-tax dollars towards commutes (usually transit, Uber Pool, Lyft Shared). Some even provide a monthly amount as a benefit.
+    - **Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next.
 _Note:_ There is also a dependent-care FSA that is subject to different rules, which is not covered here.
 _Note:_ FSAs are not available with all healthcare plans.
     - Health Savings Account (HSA)**: A HSA is similar to a FSA in that you can save pre-tax dollars for healthcare expenses, with the difference that contributions are rolled over year-to-year. Your employer may contribute to your account under eligible healthcare plans.
 _Note_: HSAs are usually only available with High Deductible Health Plans (HDHPs).
-- Meetups, Conferences (_PD, but useful_)
+
+
+### Meetups, Conferences (_PD, but useful_)
   - Meetups (see: meetup.com / eventbrite.com) can be useful places to meet other people who have an interest in the things you do! While they're commonly used for tech-related topics like React, machine learning, or data science, there are many cool hobby-related ones too (like underwater basket weaving!)
   - Conferences can be a good place to meet other people, learn, and have fun! Some of these can get disorganized or flat-out preachy, so do your research before plopping hundreds of dollars on a ticket. Check with your manager to see if your company will cover your ticket or accomodations.
