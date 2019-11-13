@@ -67,31 +67,8 @@ resident to re-do all of your tests and obtain a new license
     - Why are you getting a driver&#39;s license?
     - You have 30 days after becoming a resident to transfer your Canadian license to a NY one
 - Tax
-  -
-**○○**
-#
-[ANNOTATION:
-
-BY &#39;Raymond Ji&#39;
-ON &#39;2019-10-30T18:11:26&#39;
-NOTE: &#39;You&#39;re only a US resident on the day you move if you pass the substantial presence test for that year right? (Or if you choose the First-Year Choice?)&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Justin Paulin&#39;
-ON &#39;2019-09-21T03:14:45&#39;
-NOTE: &#39;Some good reading: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html and https://www.irs.gov/individuals/international-taxpayers/residency-starting-and-ending-dates&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Justin Paulin&#39;
-ON &#39;2019-09-21T03:13:56&#39;
-NOTE: &#39;You become a US resident on the day you move, and will need to file 2 partial-year tax returns that year - an exit return in Canada and a resident return in the US (you&#39;ll also need to file a second US non-resident tax return for the beginning of the year if you worked in the US on a co-op term that year before moving).&#39;]
-US Residency
-  -
-# Canadian Health Insurance
+  - US Residency
+  - Canadian Health Insurance
   - Declaring non-residency in Canada
     - Read [this](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html) article from the CRA
     - Form NR73?
@@ -104,7 +81,7 @@ If you are an American Citizen or Resident (ie. this doesn&#39;t apply to you du
 
   - Getting a H1B / Green card?
   - Side projects? Can&#39;t freelance/moonlight on a visa
-  - **○○**** TN - The NAFTA visa**
+  - **TN - The NAFTA visa**
     - If you&#39;re coming on a TN visa, you will need to have Canadian or Mexican citizenship, this is a nice option as H1-B visas are harder to get.
     - You also need to have a job offer with a qualified job description (not all jobs are under TN), and a degree that is relevant for that job. So unfortunately you cannot work as a designer if you have an AFM degree, for example, no matter your past work experience.
     - Also, consider setting your employment start date at least a month after your convocation date. While TN visa could technically be applied at the border with your offer letter and diploma, you risk getting rejected especially if the border agent think your degree is irrelevant for the job. **This is especially common for Computer Science students with a Software Engineering job offer.** Most companies will sponsor your TN visa and file a petition on your behalf for a pre-approval, and if approved, you will receive a I-797B notice of action. This would increase your chance of success at the border significantly. The petition may take a few weeks to process, so starting a bit later would avoid potential headaches here.
@@ -119,35 +96,11 @@ If you are an American Citizen or Resident (ie. this doesn&#39;t apply to you du
   - Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score
 - General things to know about US benefits
   - Health insurance networks?
-  -
-WTF are all these
-#
-[ANNOTATION:
-
-BY &#39;Deon Hua&#39;
-ON &#39;2019-08-26T06:39:37&#39;
-NOTE: &#39;i think this is good for now!&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Yu Chen Hou&#39;
-ON &#39;2019-08-26T06:29:14&#39;
-NOTE: &#39;Any other ones?&#39;]
-acronyms? (EPO, PPO, High Deductible)
-
+  - WTF are all these acronyms? (EPO, PPO, High Deductible)
     - Copay:** When you receive a medical service, you have to pay the specified fee. There are different amounts for different services, and they should be outlined in the benefits package.
     - Coinsurance:** When you receive a medical service, you have to pay a percentage of the medical bill.
     - Deductible:** The amount of money you pay yourself before your healthcare plan starts paying for you (minus the copays/coinsurance fees). For example, if you have a health plan with a $250 annual deductible, then you are on the hook for the first $250 in fees. And then after that, you will only pay for the co-pay or co-insurance fees.
-    -
-Out of pocket max:** The maximum amount of money you will pay in a year,
-#
-[ANNOTATION:
-
-BY &#39;Deon Hua&#39;
-ON &#39;2019-08-26T06:39:55&#39;
-NOTE: &#39;Ron mentioned this might not be the case, depending on the plan?&#39;]
-including all copays.
+    - Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
     - In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
     - What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
     - Types of Health Plans**
@@ -161,21 +114,7 @@ including all copays.
       - Generally speaking, a 401k is tied to your current employer.
     - [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it&#39;s a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
     -
-[**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a
-#
-[ANNOTATION:
-
-BY &#39;Deon Hua&#39;
-ON &#39;2019-08-26T06:40:54&#39;
-NOTE: &#39;can this be expanded on earlier? same area where we talk about caveats of a RRSP in the US&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Yu Chen Hou&#39;
-ON &#39;2019-08-26T06:39:35&#39;
-NOTE: &#39;What is a TFSA! And implications for canadians leaving for the us&#39;]
-TFSA, but it has more limitations. Like a TFSA, it&#39;s post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements.
+[**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it&#39;s post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements.
     - M E G A BACKDOOR
   - Various Pre-tax deductions
     - Commuter Subsidy**: Many companies offer a pre-tax commuter account, which allows you to allocate pre-tax dollars towards commutes (usually transit, Uber Pool, Lyft Shared). Some even provide a monthly amount as a benefit.
