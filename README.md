@@ -167,3 +167,16 @@ _Note_: HSAs are usually only available with High Deductible Health Plans (HDHPs
 ### Meetups, Conferences (_PD, but useful_)
   - Meetups (see: meetup.com / eventbrite.com) can be useful places to meet other people who have an interest in the things you do! While they're commonly used for tech-related topics like React, machine learning, or data science, there are many cool hobby-related ones too (like underwater basket weaving!)
   - Conferences can be a good place to meet other people, learn, and have fun! Some of these can get disorganized or flat-out preachy, so do your research before plopping hundreds of dollars on a ticket. Check with your manager to see if your company will cover your ticket or accomodations.
+
+## 🙏 Contributing
+
+Did we miss something? Please help out by submitting issues or PRs over at [Github](https://github.com/seductivegeese/new-grad-guide)! We're looking especially for people who have lived in the US for a while and are more knowlegeable about taxes and saving tips, but anything you think would help out others would be good to have!
+
+## 🙌 Credits
+
+💖goes to:
+Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji
+
+for collaborating on this guide!
+
+Made with ❤️ in beautiful, downtown, San Francisco.
