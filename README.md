@@ -46,8 +46,7 @@ These are generally outside of the scope of this guide, but we're linking to a f
     - If you have a license from British Columbia you can transfer it
     - Otherwise you have to re-do all your tests
   - California
-    -
-You have 10 days after becoming a resident to re-do all of your tests and obtain a new license
+    - You have 10 days after becoming a resident to re-do all of your tests and obtain a new license
     - Wait time is more than a month at DMVs for driving test, writing test can be done walk-in
   - New York State
     - Why are you getting a driver's license?
