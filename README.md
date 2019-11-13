@@ -18,7 +18,7 @@ These are generally outside of the scope of this guide, but we're linking to a f
   - It's important to get clarification on the vesting schedule! Most companies withhold any stock grants until at least a year into your job (cliff) and the stocks are given over four years. Usually companies will offer you stocks evenly every quarter, but some companies will give you fewer stocks at the beginning of your vesting schedule (eg. Amazon).
   - [This](https://www.holloway.com/g/equity-compensation) is an important read on equity compensation.
 
-### 💳An aside on credit
+### 💳 An aside on credit
 
 If you happen to be reading this guide while interning in the US, great you can get started on full time preparation by building a credit history! The earlier you start the better. It may be hard to get started with credit in the US as your Canadian history do not transfer over, but many people have gotten successes getting a card with Discover, or student cards. Secured cards are also an option, Capital One's doesn't have an annual fee.
 
@@ -44,7 +44,7 @@ If your start date is close to your graduating date, you might need to ask the R
 
 You should aim to get the TN paperwork/petition process started two months before your employment start date. Use that time to travel! You could technically obtain a TN visa at the border without prior paperwork, but there's been a history of issues from Waterloo grads trying it, so it is preferable to avoid that route unless you have to.
 
-### 🛂An aside on visas
+### 🛂 An aside on visas
 
 No matter where you go and where you live, you need the appropriate visas or citizenship to work in that country. If you have American or dual citizenship, feel free to skip this part as you should be covered!
 
@@ -54,7 +54,9 @@ Now for the rest of us, generally speaking you are not allowed to moonlight or d
 
 If you're coming on a TN visa, you will need to have Canadian or Mexican citizenship, this is a nice option as H1-B visas are harder to get. You also need to have a job offer with a qualified job description (not all jobs are under TN, there is a list of jobs that qualify), and a degree that is relevant for that job. So unfortunately you cannot work as a designer if you have an AFM degree, for example, no matter your past work experience. 
 
-Also, consider setting your employment start date at least a month after your convocation date. While TN visa could technically be applied at the border with your offer letter and diploma, you risk getting rejected especially if the border agent think your degree is irrelevant for the job. **This is especially common for Computer Science students with a Software Engineering job offer.** Most companies will sponsor your TN visa and file a petition on your behalf for a pre-approval, and if approved, you will receive a I-797B notice of action. This would increase your chance of success at the border significantly. The petition may take a few weeks to process, so starting a bit later would avoid potential headaches here.
+Also, consider setting your employment start date at least a month after your convocation date. While TN visa could technically be applied at the border with your offer letter and diploma, you risk getting rejected especially if the border agent think your degree is irrelevant for the job. **This is especially common for Computer Science students with a Software Engineering job offer.** 
+
+Most companies will sponsor your TN visa and file a petition on your behalf for a pre-approval, and if approved, you will receive a I-797B notice of action. This would increase your chance of success at the border significantly. The petition may take a few weeks to process, so starting a bit later would avoid potential headaches here.
 
 If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka peace bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a deferred inspections office in SF that will change your work status if they misclassify you at the border. This could happen, so make sure your visa stamp or 
 
@@ -119,27 +121,27 @@ Generally, you'll lose access to the Canadian healthcare the moment you move awa
 
 But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
-    - **Copay:** When you receive a medical service, you have to pay the specified fee. There are different amounts for different services, and they should be outlined in the benefits package.
-    
-    - **Coinsurance:** When you receive a medical service, you have to pay a percentage of the medical bill.
-    
-    - **Deductible:** The amount of money you pay yourself before your healthcare plan starts paying for you (minus the copays/coinsurance fees). For example, if you have a health plan with a $250 annual deductible, then you are on the hook for the first $250 in fees. And then after that, you will only pay for the co-pay or co-insurance fees.
-    
-    - **Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
-    
-    - **In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
-    
-    - **What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
+  - **Copay:** When you receive a medical service, you have to pay the specified fee. There are different amounts for different services, and they should be outlined in the benefits package.
+
+  - **Coinsurance:** When you receive a medical service, you have to pay a percentage of the medical bill.
+
+  - **Deductible:** The amount of money you pay yourself before your healthcare plan starts paying for you (minus the copays/coinsurance fees). For example, if you have a health plan with a $250 annual deductible, then you are on the hook for the first $250 in fees. And then after that, you will only pay for the co-pay or co-insurance fees.
+
+  - **Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
+
+  - **In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
+
+  - **What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
    
 **Types of Health Plans**
 
-      - **EPO**: This type of plans tend to favor the provider's network, with discounted/cheap fees if you stay in the network, and very expensive to no coverage if you leave the network.
-      
-      - **PPO**: This type of plans tend to favor the provider's network, with very low to no fees if you stay in the network, but you retain coverage if you leave the network.
-      
-      - **HMO**: See EPO. HMOs typically handle the full lifecycle of your healthcare. For example, if you have a Kaiser HMO, to remain in-network, you must visit a Kaiser GP, specialists, hospitals, etc. Typically, you will also have to see your GP for a referral to a specialist.
-      
-      - **High Deductible Health Plans (HDHP)**: You and your employer contribute money to an HSA (Healthcare Savings Account), which is used for your own medical expenses. The remaining funds will roll over every year, so this could be a good idea if your health is in a generally good shape. Downside: You generally will pay more money when you do claim insurance in the form of higher deductibles and coinsurance.
+  - **EPO**: This type of plans tend to favor the provider's network, with discounted/cheap fees if you stay in the network, and very expensive to no coverage if you leave the network.
+
+  - **PPO**: This type of plans tend to favor the provider's network, with very low to no fees if you stay in the network, but you retain coverage if you leave the network.
+
+  - **HMO**: See EPO. HMOs typically handle the full lifecycle of your healthcare. For example, if you have a Kaiser HMO, to remain in-network, you must visit a Kaiser GP, specialists, hospitals, etc. Typically, you will also have to see your GP for a referral to a specialist.
+
+  - **High Deductible Health Plans (HDHP)**: You and your employer contribute money to an HSA (Healthcare Savings Account), which is used for your own medical expenses. The remaining funds will roll over every year, so this could be a good idea if your health is in a generally good shape. Downside: You generally will pay more money when you do claim insurance in the form of higher deductibles and coinsurance.
 
 ### 👴(Retirement) Savings
 
@@ -159,7 +161,7 @@ But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
   - **Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next. _Note:_ There is also a dependent-care FSA that is subject to different rules, which is not covered here, and FSAs are not available with all healthcare plans.
 
-  - Health Savings Account (HSA)**: A HSA is similar to a FSA in that you can save pre-tax dollars for healthcare expenses, with the difference that contributions are rolled over year-to-year. Your employer may contribute to your account under eligible healthcare plans.
+  - **Health Savings Account (HSA)**: A HSA is similar to a FSA in that you can save pre-tax dollars for healthcare expenses, with the difference that contributions are rolled over year-to-year. Your employer may contribute to your account under eligible healthcare plans.
 _Note_: HSAs are usually only available with High Deductible Health Plans (HDHPs).
 
 
