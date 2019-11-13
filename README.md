@@ -27,7 +27,7 @@ You should try to actually see the place before you sign a lease. This isn't an 
 
 For companies that offer more than one relocation package, do some relocation calculations to see which one gives you more $$. For example, some lump sum amounts results in waaay more money than asking the company to ship stuff for you. (This is especially applicable if you already live relatively close to the state you're traveling to and if you already have housing secured)
 
-For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops:[https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC)
+For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops:[Link](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC)
 
 ### 🎓 Degree fast-track
 
@@ -55,6 +55,7 @@ You should aim to get the TN paperwork/petition process started two months befor
   - New York State
     - Why are you getting a driver's license?
     - You have 30 days after becoming a resident to transfer your Canadian license to a NY one
+    
 ### 🤑 Tax
   - US Residency
     - You become a US resident on the day you move, and will need to file 2 partial-year tax returns that year - an exit return in Canada and a resident return in the US (you'll also need to file a second US non-resident tax return for the beginning of the year if you worked in the US on a co-op term that year before moving).
@@ -101,33 +102,45 @@ You should aim to get the TN paperwork/petition process started two months befor
 ### 🏥 Health insurance, wtf?
 
 WTF are all these acronyms? (EPO, PPO, High Deductible)
+
     - **Copay:** When you receive a medical service, you have to pay the specified fee. There are different amounts for different services, and they should be outlined in the benefits package.
+    
     - **Coinsurance:** When you receive a medical service, you have to pay a percentage of the medical bill.
+    
     - **Deductible:** The amount of money you pay yourself before your healthcare plan starts paying for you (minus the copays/coinsurance fees). For example, if you have a health plan with a $250 annual deductible, then you are on the hook for the first $250 in fees. And then after that, you will only pay for the co-pay or co-insurance fees.
+    
     - **Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
+    
     - **In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
+    
     - **What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
    
 **Types of Health Plans**
+
       - **EPO**: This type of plans tend to favor the provider's network, with discounted/cheap fees if you stay in the network, and very expensive to no coverage if you leave the network.
+      
       - **PPO**: This type of plans tend to favor the provider's network, with very low to no fees if you stay in the network, but you retain coverage if you leave the network.
+      
       - **HMO**: See EPO. HMOs typically handle the full lifecycle of your healthcare. For example, if you have a Kaiser HMO, to remain in-network, you must visit a Kaiser GP, specialists, hospitals, etc. Typically, you will also have to see your GP for a referral to a specialist.
+      
       - **High Deductible Health Plans (HDHP)**: You and your employer contribute money to an HSA (Healthcare Savings Account), which is used for your own medical expenses. The remaining funds will roll over every year, so this could be a good idea if your health is in a generally good shape. Downside: You generally will pay more money when you do claim insurance in the form of higher deductibles and coinsurance.
 
 ### 👴(Retirement) Savings
+
   - It's never too early to save for retirement / important investments such as a house later in life.
     - 401k Matches and Vesting:
       - Generally speaking, a 401k is tied to your current employer.
+      
     - [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it's a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
+    
     - [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements.
     - M E G A BACKDOOR
       - TBD.
 
 ### Various Pre-tax deductions
     - **Commuter Subsidy**: Many companies offer a pre-tax commuter account, which allows you to allocate pre-tax dollars towards commutes (usually transit, Uber Pool, Lyft Shared). Some even provide a monthly amount as a benefit.
-    - **Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next.
-_Note:_ There is also a dependent-care FSA that is subject to different rules, which is not covered here.
-_Note:_ FSAs are not available with all healthcare plans.
+    - **Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next. _Note:_ There is also a dependent-care FSA that is subject to different rules, which is not covered here, and FSAs are not available with all healthcare plans.
+
     - Health Savings Account (HSA)**: A HSA is similar to a FSA in that you can save pre-tax dollars for healthcare expenses, with the difference that contributions are rolled over year-to-year. Your employer may contribute to your account under eligible healthcare plans.
 _Note_: HSAs are usually only available with High Deductible Health Plans (HDHPs).
 
