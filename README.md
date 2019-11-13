@@ -60,7 +60,7 @@ Most companies will sponsor your TN visa and file a petition on your behalf for 
 
 If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka peace bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a deferred inspections office in SF that will change your work status if they misclassify you at the border. This could happen, so make sure your visa stamp or 
 
-IMPORTANT: **If your company is providing a legal team to apply for a TN visa for you, ask for a status update** 2 months** (or at least a 1.5 months) before your start date. Even after they've collected all of your info, it could still take a long time for them to actually file the request for your visa, and it will then take another 15 days to hear back from the USCIS (this is NOT a guaranteed approval, they may ask for more evidence which will result in more time/delay). So you asking for a status update is just to make sure your legal team doesn't uh.. 'forget' about you and file the visa request way too late. Some employers require you to receive your start authorization from the legal team a week prior to your start date, or else your start date will have to be pushed back.
+**IMPORTANT:** If your company is providing a legal team to apply for a TN visa for you, ask for a status update 2 months (or at least a 1.5 months) before your start date. Even after they've collected all of your info, it could still take a long time for them to actually file the request for your visa, and it will then take another 15 days to hear back from the USCIS (this is NOT a guaranteed approval, they may ask for more evidence which will result in more time/delay). So you asking for a status update is just to make sure your legal team doesn't uh.. 'forget' about you and file the visa request way too late. Some employers require you to receive your start authorization from the legal team a week prior to your start date, or else your start date will have to be pushed back.
 
 ### 💸 Repaying Student Loans
 
@@ -172,11 +172,9 @@ _Note_: HSAs are usually only available with High Deductible Health Plans (HDHPs
 
 Did we miss something? Please help out by submitting issues or PRs over at [Github](https://github.com/seductivegeese/new-grad-guide)! We're looking especially for people who have lived in the US for a while and are more knowlegeable about taxes and saving tips, but anything you think would help out others would be good to have!
 
-## 🙌 Credits
+## 🙌 Wall of love
 
 💖goes to:
-Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji
-
-for collaborating on this guide!
+Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji for collaborating on this guide!
 
 Made with ❤️ in beautiful, downtown, San Francisco.
