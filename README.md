@@ -1,4 +1,4 @@
-# 👋Hello!
+# 👋 Hello!
 
 Congratulations on starting real-life! This is a guide to hopefully help you transition from being a student to working full-time in the tech industry in the US.
 
@@ -117,7 +117,6 @@ You become a US tax resident on the day you move, and will need to file 2 partia
 ### 🏥 Health insurance, wtf?
 
 Generally, you'll lose access to the Canadian healthcare the moment you move away from Canada, so from that point on your sole source of medical coverage would be from your employer-sponsored healthcare plan. You'll enroll into a plan sometimes during your first month of work, and that coverage should apply retroactively from your start date.
-
 
 But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
