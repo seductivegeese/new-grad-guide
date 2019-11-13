@@ -34,7 +34,9 @@ If you're planning to move to SF, Bay Area, or NYC, be prepared to pay a lot. Yo
 
 You should try to actually see the place before you sign a lease. This isn't an internship anymore, you'll be living there for more than four months and you'll want to enjoy the space - a video tour can only do so much. If you can't make it there though, try to send a friend for a video tour at the least.
 
-For companies that offer more than one relocation package, do some relocation calculations to see which one gives you more $$. For example, some lump sum amounts results in waaay more money than asking the company to ship stuff for you. (This is especially applicable if you already live relatively close to the state you're traveling to and if you already have housing secured)
+For companies that offer more than one relocation package, do some relocation calculations to see which one gives you more $$. For example, some lump sum amounts results in waaay more money than asking the company to ship stuff for you. (This is especially applicable if you already live relatively close to the state you're traveling to and if you already have housing secured).
+
+Some useful places to look for rentals are Zillow, Craigslist, Padmapper. Don't hesitate to ask for a viewing, most agents are more than happy to accomodate.
 
 For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops: [Link](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC).
 
