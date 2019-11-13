@@ -1,10 +1,12 @@
-## 👋Hello!
+# 👋Hello!
 
 Congratulations on starting real-life! This is a guide to hopefully help you transition from being a student to working full-time in the tech industry in the US.
 
 Adulting is hard and we&#39;re all trying to figure it out, so hopefully by sharing our experiences in what we hope to be a semi-coherent guide, we can make it easier for the next wave of new grads to start their careers.
 
 _We&#39;re not legal, tax, immigration, etc. professionals. We take no responsibility for anything here, so please contact a professional if you&#39;re confused._
+
+*Another disclaimer: the authors are recent grads who are still figuring things out, we would welcome contributions from people with more experience and wisdom, of course!*
 
 **Before You Sign…**
 
