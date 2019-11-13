@@ -57,6 +57,8 @@ Now for the rest of us, generally speaking you are not allowed to moonlight or d
 
 If you're coming on a TN visa, you will need to have Canadian or Mexican citizenship, this is a nice option as H1-B visas are harder to get. You also need to have a job offer with a qualified job description (not all jobs are under TN, there is a list of jobs that qualify), and a degree that is relevant for that job. So unfortunately you cannot work as a designer if you have an AFM degree, for example, no matter your past work experience. 
 
+This visa is valid for a couple of years (up to 3), and can be renewed. Although it is not considered an immigration track visa (you're a nonimmigrant resident alien), so they may start to question your immigration intent if you renew it too often. This visa is also not considered dual-intent (ie. you can't apply for immigration status or green card and be on the TN visa at the same time, although there are many technicalities about this statement we won't get to here). Therefore, many people would consider doing a switch to H1-B while on the TN visa to work around these limitations. It's definitively something you should talk about with your employer if you intend to stay in the US in the long term.
+
 Also, consider setting your employment start date at least a month after your convocation date. While TN visa could technically be applied at the border with your offer letter and diploma, you risk getting rejected especially if the border agent think your degree is irrelevant for the job. **This is especially common for Computer Science students with a Software Engineering job offer.** 
 
 Most companies will sponsor your TN visa and file a petition on your behalf for a pre-approval, and if approved, you will receive a I-797B notice of action. This would increase your chance of success at the border significantly. The petition may take a few weeks to process, so starting a bit later would avoid potential headaches here.
@@ -64,6 +66,14 @@ Most companies will sponsor your TN visa and file a petition on your behalf for 
 If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka peace bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a deferred inspections office in SF that will change your work status if they misclassify you at the border. This could happen, so make sure your visa stamp or 
 
 **IMPORTANT:** If your company is providing a legal team to apply for a TN visa for you, ask for a status update 2 months (or at least a 1.5 months) before your start date. Even after they've collected all of your info, it could still take a long time for them to actually file the request for your visa, and it will then take another 15 days to hear back from the USCIS (this is NOT a guaranteed approval, they may ask for more evidence which will result in more time/delay). So you asking for a status update is just to make sure your legal team doesn't uh.. 'forget' about you and file the visa request way too late. Some employers require you to receive your start authorization from the legal team a week prior to your start date, or else your start date will have to be pushed back.
+
+**H1-B - The visa we keep hearing about in the news**
+
+H1-B is the other main type of visa that can be used to work in the US. This is mainly an option for people who are not eligible for TN.
+
+**L-1 - Transfer visa**
+
+Sometimes a company will hire you to work in another country for a while (Vancouver is a huge destination for this). This is so you can be transfered to the US under the L-1 visa.
 
 ### 💸 Repaying Student Loans
 
