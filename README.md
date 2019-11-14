@@ -179,15 +179,15 @@ But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
   There are two broad categories of tax-sheltered accounts you'll be looking at - 401k and IRAs.
   401ks are typically tied to your employer, although you'll be able to take the account with you (and convert to an IRA if you'd like) when you leave.
+  
+- 401k Matches and Vesting:
+	- These accounts, while tied to your employer and being less flexiblity than an IRA, have a higher contribution limit.
+	- Some employers offer a "match" on 401k contributions, which is worth maximizing. Be cautious of vesting periods as well - typically, that means the match is only yours after you've been employed for a period of time (the vesting period).
+	- A pretty common thing nowadays is the "mega backdoor" which allows you to contribute past the 19k IRS limit with post-tax money. More on this later, but it's well documented.
 
-    - 401k Matches and Vesting:
-		- These accounts, while tied to your employer and being less flexiblity than an IRA, have a higher contribution limit.
-		- Some employers offer a "match" on 401k contributions, which is worth maximizing. Be cautious of vesting periods as well - typically, that means the match is only yours after you've been employed for a period of time (the vesting period).
-		- A pretty common thing nowadays is the "mega backdoor" which allows you to contribute past the 19k IRS limit with post-tax money. More on this later, but it's well documented.
-      
-    - [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it's a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
-    
-    - [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements. Note that there is an income cap to use a Roth IRA.
+- [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it's a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
+
+- [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements. Note that there is an income cap to use a Roth IRA.
 
 ### Various Pre-tax deductions
 
