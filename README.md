@@ -120,10 +120,8 @@ Generally you need to get a resident state license ASAP in order to continue dri
     
 ### 🤑 Tax
 
-You become a US tax resident on the day you move, and will need to file 2 partial-year tax returns that year - an exit return in Canada and a resident return in the US. You'll also need to file a second US non-resident tax return for the beginning of the year if you worked in the US on a co-op term that year before moving.
-    - Good readings:
-      - [Leaving Canada](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html)
-      - [Entering US](https://www.irs.gov/individuals/international-taxpayers/residency-starting-and-ending-dates)
+You become a US tax resident on the day you move, and will need to file 2 partial-year tax returns that year - an exit return in Canada and a resident return in the US. You'll also need to file a second US non-resident tax return for the beginning of the year if you worked in the US on a co-op term that year before moving. Some good readings: [Leaving Canada](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html), [Entering US](https://www.irs.gov/individuals/international-taxpayers/residency-starting-and-ending-dates).
+
   - Declaring non-residency in Canada
     - Read [this](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html) article from the CRA
     - Form NR73?
