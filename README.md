@@ -22,7 +22,9 @@ These are generally outside of the scope of this guide, but we're linking to a f
 
 If you happen to be reading this guide while interning in the US, great you can get started on full time preparation by building a credit history! The earlier you start the better. It may be hard to get started with credit in the US as your Canadian history do not transfer over, but many people have gotten successes getting a card with Discover, or student cards. Secured cards are also an option, Capital One's doesn't have an annual fee.
 
-Aside: RBC offers a US credit card that will take into account your Canadian credit. It will be reported to American credit agencies and can help you avoid having to get a secured card.
+RBC offers a US credit card that will take into account your Canadian credit. It will be reported to American credit agencies and can help you avoid having to get a secured card.
+
+TD Canada Trust does as well, through your US subsidary TD Bank, but you need to have residence on the east coast of the US as TD only operates there. You'll need to fill out [this form](https://www.tdbank.com/exc/pdf/Foreign-National-Application.pdf) and fax it in, though.
 
 Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score. Don't worry if it goes over 30% in one month as your score only takes into account your most recent reported balance.
 
