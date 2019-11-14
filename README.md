@@ -49,7 +49,7 @@ You should aim to get the TN paperwork/petition process started two months befor
 
 ### 🛂 An aside on visas
 
-No matter where you go and where you live, you need the appropriate visas or citizenship to work in that country. If you have American or dual citizenship, feel free to skip this part as you should be covered!
+No matter where you go and where you live, you need the appropriate visas or citizenship to work in that country. If you have American or dual citizenship/green card, feel free to skip this part as you should be covered!
 
 Now for the rest of us, generally speaking you are not allowed to moonlight or do freelance work on a TN or H1-B visa as these visas only authorize you to work for a given employer over a specific time frame.
 
@@ -83,7 +83,7 @@ For OSAP, while you won't have to make a repayment until 6 months after the end 
   - The Ontario rate is prime (BoC) + 1%, Canada is prime + 2.5%, standard repayment is over 9.5 years
   - Student Loan Interest payments can be claimed on your Canadian tax return as part of your non-refundable tax credits **while you're a Canadian resident**.
 
-Similar rules apply for loans from other provinces, for example, for Quebec's AFE, the intrerest will accrue on your loan immediately after the completion of your studies, but you will benefit from a 6 month period deferral before repayments start.
+Similar rules apply for loans from other provinces, for example, for Quebec's AFE, the interest will accrue on your loan immediately after the completion of your studies, but you will benefit from a 6 month period deferral before repayments start.
  
 ## 🇺🇸 After arriving in the US
 
