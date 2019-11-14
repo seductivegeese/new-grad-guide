@@ -20,17 +20,26 @@ These are generally outside of the scope of this guide, but we're linking to a f
 
 ### 💳 An aside on credit
 
-If you happen to be reading this guide while interning in the US, great you can get started on full time preparation by building a credit history! The earlier you start the better. It may be hard to get started with credit in the US as your Canadian history do not transfer over, but many people have gotten successes getting a card with Discover, or student cards. Secured cards are also an option, Capital One's doesn't have an annual fee.
+If you happen to be reading this guide while interning in the US, great you can get started on full time preparation by building a credit history! The earlier you start the better. It may be hard to get started with credit in the US as your Canadian history do not transfer over, but there are a few ways to work around this.
 
-RBC offers a US credit card that will take into account your Canadian credit. It will be reported to American credit agencies and can help you avoid having to get a secured card.
+[Nova Credit](https://www.novacredit.com/) is a service that lets you make use of your Canadian credit history to apply for credit cards in the US, specifically American Express cards. This is your best bet if you have a strong Canadian credit history.
+
+RBC offers a US credit card that also takes into account your Canadian credit. It will be reported to American credit agencies and can help you avoid having to get a secured card.
 
 TD Canada Trust does as well, through your US subsidary TD Bank, but you need to have residence on the east coast of the US as TD only operates there. If you aren't on the East Coast, you'll need to fill out [this form](https://www.tdbank.com/exc/pdf/Foreign-National-Application.pdf) and fax it in, though.
 
-Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score. Don't worry if it goes over 30% in one month as your score only takes into account your most recent reported balance.
+Secured cards are an option if you don't have a strong Canadian credit score. The Discover it Secured credit card is considered by many to be one of the best beginner credit cards, since it is the only secured credit card that offers rewards, and Discover in general is very new credit history-friendly, making getting approved easier. Other options include the Capital One and Citi Secured Mastercards. None of these cards have an annual fee.
 
-After about a year or so of history, it would be significantly easier to get a card from another company, including premium/travel cards like the Chase Sapphire.
-  
-  
+Also, rather surprisingly, the Apple credit card is another new (unsecured) option that has opened up, since Apple is being very lenient in approving this card, and for this card specifically, you can get check whether you are approved or not with just a soft inquiry (no impact to credit score); only accepting the offer does a hard inquiry. Hence, if have have an iPhone, you can keep checking for approval on the Apple card with no detrements. It also has no annual fee.
+
+When applying for the first time, you would most probably be asked to send in proof of address (lease agreement, pay slip) and proof of ID (passport, driver's license), since you won't have any credit profile in the US. Read the [things you should now about each card issuer](https://www.doctorofcredit.com/credit-card-reference-pages/#Things_You_Should_Know_About_Each_Card_Issuer) for more details on the process of each card issuer. It's also wise to monitor your credit for free across all three credit bureaus, TransUnion, Equifax, and Experian, using Credit Karma (for TransUnion and Equifax) and Experian's own app, so that you know if you have the required score before you apply.
+
+Try keeping your monthly credit card balance as close as possible to 0% (the 30% of your limit thing you read online is a fallacy, and staying close to 30% rather negatively impacts your credit). Pay your card off to the maximum extent before the statement closes, so that your card statement has a very low balance on it (this is what gets reported to the credit bureaus as credit utilization). Once you build your credit and get higher credit limits, you can leave higher balances and still have single-digit credit utilization. Don't worry if your utilization goes higher in one month, since once you pay it off, it would go back down the next month. Also, some credit card issuers like Chase actually rereport your balance as zero as soon as you completely pay off your balance.
+
+After getting your first card, apply for the next one after about 2-3 months. Target your spending habits and get credit cards that offer the best rewards for your biggest spending categories. In the mean time, try to stay within Chase's 5/24 rule: Chase will auto-reject you for any of their cards if you have 5 or more new credit card accounts opened in the 24-month period before your application. This could potentially lock you out of Chase altogether for several months, which is a shame since Chase is considered one of the best credit card companies in the US, offering the best service and the best perks and rewards.
+
+It is usually recommended to have at least a year of credit history before applying to Chase, but you would have an easier time getting approved earlier if you have banking relationshop with them, through the recommendation of your banker. It is recommended to first apply for a no-annual fee card with Chase, like the Chase Freedom, waiting a month, then applying for premium/travel cards like the Chase Sapphire Preferred/Reserve, since Chase is paranoid about giving these cards out to new customers.
+
 ## 🇨🇦 While you wait for the job to start
 
 ### 🏠 Housing and Relocation
@@ -44,6 +53,7 @@ Some useful places to look for rentals are Zillow, Craigslist, Padmapper. Don't 
 
 For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a [map](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC) of the stops.
 
+After settling in and getting comfortable, you should start planning to buying a house/apartment, since real estate is great form of investment, and why pay rent (read: pay off someone else's mortgage) when you can pay your mortgage instead and build equity. This is especially the case in Seattle where population growth is through the roof, which has translated to exceptional real estate appreciation rates. For getting the lowest interest rates on home loans, you need a good credit history and a score above 740 (read the above section). You also want to avoid hard inquiries and new credit cards in the months leading up to keep your score high and to avoid lenders from considering you higher risk, since a hard inquiry roughly translates to "eagerly seeking for debt" in their eyes.
 
 ### 🎓 Degree fast-track
 
