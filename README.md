@@ -146,6 +146,8 @@ But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
   - **In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
 
+   - **Balance Billing:** Balance billing occurs when you visit an out of network provider. The provider will charge you the difference between what your insurance consider a &quot;customary charge&quot; (ie. what they would have paid to an in network provider for the same procedure). Some states (including California) have enacted laws against this practice (especially in emergency situations), but you should still avoid visiting out of network providers if possible.
+
   - **What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
    
 **Types of Health Plans**
