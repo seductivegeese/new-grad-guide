@@ -193,6 +193,6 @@ Did we miss something? Please help out by submitting issues or PRs over at [Gith
 ## 🙌 Wall of love
 
 💖goes to:
-Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji for collaborating on this guide!
+Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji, Jacob Moore for collaborating on this guide!
 
 Made with ❤️ in beautiful, downtown, San Francisco.
