@@ -34,7 +34,7 @@ After about a year or so of history, it would be significantly easier to get a c
 ### 🏠 Housing and Relocation
 If you're planning to move to SF, Bay Area, or NYC, be prepared to pay a lot. You're going to be living in some of the most expensive and hottest real estate markets of today. You can look into what relocation benefits your employer provides. They might provide cash, a reimbursable amount, temporary housing, or a mixture of these benefits. They would at least make settling in a bit easier.
 
-You should try to actually see the place before you sign a lease. This isn't an internship anymore, you'll be living there for more than four months and you'll want to enjoy the space - a video tour can only do so much. If you can't make it there though, try to send a friend for a video tour at the least.
+You should try to actually see the place before you sign a lease. This isn't an internship anymore, you'll be living there for more than four months and you'll want to enjoy the space - a video tour can only do so much. If you can't make it there though, try to send a friend for a tour at the least.
 
 For companies that offer more than one relocation package, do some relocation calculations to see which one gives you more $$. For example, some lump sum amounts results in waaay more money than asking the company to ship stuff for you. (This is especially applicable if you already live relatively close to the state you're traveling to and if you already have housing secured).
 
