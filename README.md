@@ -24,7 +24,7 @@ If you happen to be reading this guide while interning in the US, great you can 
 
 RBC offers a US credit card that will take into account your Canadian credit. It will be reported to American credit agencies and can help you avoid having to get a secured card.
 
-TD Canada Trust does as well, through your US subsidary TD Bank, but you need to have residence on the east coast of the US as TD only operates there. You'll need to fill out [this form](https://www.tdbank.com/exc/pdf/Foreign-National-Application.pdf) and fax it in, though.
+TD Canada Trust does as well, through your US subsidary TD Bank, but you need to have residence on the east coast of the US as TD only operates there. If you aren't on the East Coast, you'll need to fill out [this form](https://www.tdbank.com/exc/pdf/Foreign-National-Application.pdf) and fax it in, though.
 
 Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score. Don't worry if it goes over 30% in one month as your score only takes into account your most recent reported balance.
 
@@ -42,7 +42,7 @@ For companies that offer more than one relocation package, do some relocation ca
 
 Some useful places to look for rentals are Zillow, Craigslist, Padmapper. Don't hesitate to ask for a viewing, most agents are more than happy to accomodate.
 
-For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a link to a map w/ the stops: [Link](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC).
+For Seattle(WA) interns who are going to Microsoft, they can also look for places that are close to &quot;connector&quot; stops, which is a free shuttle service provided by MS. Here's a [map](https://www.bing.com/maps/?v=2&amp;cp=47.620098~-122.140800&amp;lvl=10&amp;dir=0&amp;sty=r&amp;cid=732976E630FC85AB!113&amp;form=LMLTCC) of the stops.
 
 
 ### 🎓 Degree fast-track
@@ -81,7 +81,8 @@ Sometimes a company will hire you to work in another country for a while (Vancou
 
 ### 💸 Repaying Student Loans
 
-It's generally a good idea to make plans and pay back your student loans ahead of time, before your time in Waterloo ends.
+It's generally a good idea to make plans and pay back your student loans ahead of time, before your time in Waterloo ends. Also, note that having outstanding student loans is considered a strong 
+"tie" to Canada when the CRA determines your tax-residency status when you leave.
 
 For OSAP, while you won't have to make a repayment until 6 months after the end of your last academic term (likely April 30 + 6 mo, so October 31), interest will accrue on the Federal and Ontario portion once repayments begin (starting 2019, interest will accrue on the Ontario portion once the grace period starts)
   - The Ontario rate is prime (BoC) + 1%, Federal is prime + 2.5%, standard repayment is over 9.5 years
@@ -164,15 +165,19 @@ But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
 ### 👴(Retirement) Savings
 
-  - It's never too early to save for retirement / important investments such as a house later in life.
+  It's never too early to save for retirement / important investments such as a house later in life.
+
+  There are two broad categories of tax-sheltered accounts you'll be looking at - 401k and IRAs.
+  401ks are typically tied to your employer, although you'll be able to take the account with you (and convert to an IRA if you'd like) when you leave.
+
     - 401k Matches and Vesting:
-      - Generally speaking, a 401k is tied to your current employer.
+		- These accounts, while tied to your employer and being less flexiblity than an IRA, have a higher contribution limit.
+		- Some employers offer a "match" on 401k contributions, which is worth maximizing. Be cautious of vesting periods as well - typically, that means the match is only yours after you've been employed for a period of time (the vesting period).
+		- A pretty common thing nowadays is the "mega backdoor" which allows you to contribute past the 19k IRS limit with post-tax money. More on this later, but it's well documented.
       
     - [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it's a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
     
-    - [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements.
-    - M E G A BACKDOOR
-      - TBD.
+    - [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements. Note that there is an income cap to use a Roth IRA.
 
 ### Various Pre-tax deductions
 
