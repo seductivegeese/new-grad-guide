@@ -22,7 +22,9 @@ These are generally outside of the scope of this guide, but we're linking to a f
 
 If you happen to be reading this guide while interning in the US, great you can get started on full time preparation by building a credit history! The earlier you start the better. It may be hard to get started with credit in the US as your Canadian history do not transfer over, but many people have gotten successes getting a card with Discover, or student cards. Secured cards are also an option, Capital One's doesn't have an annual fee.
 
-Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score
+Aside: RBC offers a US credit card that will take into account your Canadian credit. It will be reported to American credit agencies and can help you avoid having to get a secured card.
+
+Try keeping your monthly credit card balance below 30% of your limit (by either lowering spending or increasing your limit, also pay off parts of your spending before a statement release) -- they use this as a factor when calculating your credit score. Don't worry if it goes over 30% in one month as your score only takes into account your most recent reported balance.
 
 After about a year or so of history, it would be significantly easier to get a card from another company, including premium/travel cards like the Chase Sapphire.
   
@@ -63,7 +65,7 @@ Also, consider setting your employment start date at least a month after your co
 
 Most companies will sponsor your TN visa and file a petition on your behalf for a pre-approval, and if approved, you will receive a I-797B notice of action. This would increase your chance of success at the border significantly. The petition may take a few weeks to process, so starting a bit later would avoid potential headaches here.
 
-If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka peace bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a deferred inspections office in SF that will change your work status if they misclassify you at the border. This could happen mistakenly by untrained border agents, so make sure your visa stamp or your I-94 form correctly reflects yur TN status. Some people have been admitted under TN but registered as B-2 (visitor visa) before.
+If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka peace bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a deferred inspections office in SF that will change your work status if they misclassify you at the border. This could happen mistakenly by untrained border agents, so make sure your visa stamp or your I-94 form correctly reflects your TN status. Some people have been admitted under TN but registered as B-2 (visitor visa) before.
 
 **IMPORTANT:** If your company is providing a legal team to apply for a TN visa for you, ask for a status update 2 months (or at least a 1.5 months) before your start date. Even after they've collected all of your info, it could still take a long time for them to actually file the request for your visa, and it will then take another 15 days to hear back from the USCIS (this is NOT a guaranteed approval, they may ask for more evidence which will result in more time/delay). So you asking for a status update is just to make sure your legal team doesn't uh.. 'forget' about you and file the visa request way too late. Some employers require you to receive your start authorization from the legal team a week prior to your start date, or else your start date will have to be pushed back.
 
@@ -79,8 +81,8 @@ Sometimes a company will hire you to work in another country for a while (Vancou
 
 It's generally a good idea to make plans and pay back your student loans ahead of time, before your time in Waterloo ends.
 
-For OSAP, while you won't have to make a repayment until 6 months after the end of your last academic term (likely April 30 + 6 mo, so October 31), interest will accrue on the Canadian portion immediately after the end of your term and the Ontario portion once repayments should begin (starting 2019, interest will also accrue on the Ontario portion once the grace period starts)
-  - The Ontario rate is prime (BoC) + 1%, Canada is prime + 2.5%, standard repayment is over 9.5 years
+For OSAP, while you won't have to make a repayment until 6 months after the end of your last academic term (likely April 30 + 6 mo, so October 31), interest will accrue on the Federal and Ontario portion once repayments begin (starting 2019, interest will accrue on the Ontario portion once the grace period starts)
+  - The Ontario rate is prime (BoC) + 1%, Federal is prime + 2.5%, standard repayment is over 9.5 years
   - Student Loan Interest payments can be claimed on your Canadian tax return as part of your non-refundable tax credits **while you're a Canadian resident**.
 
 Similar rules apply for loans from other provinces, for example, for Quebec's AFE, the interest will accrue on your loan immediately after the completion of your studies, but you will benefit from a 6 month period deferral before repayments start.
@@ -89,7 +91,7 @@ Similar rules apply for loans from other provinces, for example, for Quebec's AF
 
 ### 🚗 Driving License or State ID
 
-Generally you need to get a resident state license ASAP.
+Generally you need to get a resident state license ASAP in order to continue driving.
 
   - Washington State
     - If you're not a US Citizen you can drive with your foreign license for up to a year.
@@ -125,7 +127,8 @@ You become a US tax resident on the day you move, and will need to file 2 partia
       - Does other states have other restrictions? We can cover the biggest cases (ie. NY, WA, CA)
         - California: CA does not treat a RRSP as a tax-deferred shelter, instead taxing it like a Margin account. If you’re holding a RRSP, it’s probably best if you invest in full-return securities (ie. those which don’t provide a dividend). 
     - TFSA
-      - To be completed
+      - Your TFSA is not considered a tax sheltered account by the IRS
+      - Since it's easy to liquidate you should probably shut down your TFSA
 
 ### 🏥 Health insurance, wtf?
 
@@ -142,6 +145,8 @@ But... WTF are all these acronyms? (EPO, PPO, High Deductible)
   - **Out of pocket max:** The maximum amount of money you will pay in a year, including all copays.
 
   - **In/Out of Network:** Insurance providers will partner with hospitals and clinics to provide a discount or exclusive service for you. If you go to these &quot;in-network&quot; providers, then it would be cheaper than if you went &quot;out-of-network:. More on this in a second.
+
+   - **Balance Billing:** Balance billing occurs when you visit an out of network provider. The provider will charge you the difference between what your insurance consider a &quot;customary charge&quot; (ie. what they would have paid to an in network provider for the same procedure). Some states (including California) have enacted laws against this practice (especially in emergency situations), but you should still avoid visiting out of network providers if possible.
 
   - **What about Canada/International?** You might qualify as out of network when you seek medical treatment abroad.
    
@@ -188,6 +193,6 @@ Did we miss something? Please help out by submitting issues or PRs over at [Gith
 ## 🙌 Wall of love
 
 💖goes to:
-Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji for collaborating on this guide!
+Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji, Jacob Moore for collaborating on this guide!
 
 Made with ❤️ in beautiful, downtown, San Francisco.
