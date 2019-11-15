@@ -8,12 +8,17 @@ _We're not legal, tax, immigration, etc. professionals. We take no responsibilit
 
 _**Another disclaimer: the authors are recent grads who are still figuring things out, we would welcome contributions from people with more experience and wisdom, of course!**_
 
+## 🎒Finding a Job
+
+Cool resources to help you land the right job for you if you don't already have one arranged:
+- A list of companies [hiring without whiteboard](https://github.com/poteto/hiring-without-whiteboards) interviews
+
 ## 📝 Before You Sign…
 
 These are generally outside of the scope of this guide, but we're linking to a few useful resources to make sure you get the best offer possible!
 
 - Guides to Negotiating an Offer
-  - Doesn't hurt to negotiate! Companies _rarely_ revoke offers if you negotiate and if they do, that's probably a red flag. Job offers are just contracts - you should try and get what you think you're worth. If you don't think you need the money, that's totally fair! That's more that could go towards charity or whatnot.
+  - Doesn't hurt to negotiate! Companies _rarely_ revoke offers if you negotiate and if they do, that's probably a red flag. Job offers are just contracts - you should try and get what you think you're worth. If you don't think you need the money, that's totally fair! That's more that could go towards charity or whatnot. Candor has a [guide to negotiating tech salaries](https://teamcandor.com/salary/guide/) that's worth a read if you're at this stage.
 - Stock Options vs RSUs
   - It's important to get clarification on the vesting schedule! Most companies withhold any stock grants until at least a year into your job (cliff) and the stocks are given over four years. Usually companies will offer you stocks evenly every quarter, but some companies will give you fewer stocks at the beginning of your vesting schedule (eg. Amazon).
   - [This](https://www.holloway.com/g/equity-compensation) is an important read on equity compensation.
@@ -77,7 +82,7 @@ Also, consider setting your employment start date at least a month after your co
 
 Most companies will sponsor your TN visa and file a petition on your behalf for a pre-approval, and if approved, you will receive a I-797B notice of action. This would increase your chance of success at the border significantly. The petition may take a few weeks to process, so starting a bit later would avoid potential headaches here.
 
-If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka peace bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a deferred inspections office in SF that will change your work status if they misclassify you at the border. This could happen mistakenly by untrained border agents, so make sure your visa stamp or your I-94 form correctly reflects your TN status. Some people have been admitted under TN but registered as B-2 (visitor visa) before.
+If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka Peace Bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a US [CBP Deferred Inspection](https://www.cbp.gov/contact/ports/deferred-inspection-sites) office in SF that will change your work status if they misclassify you at the border. This could happen mistakenly by untrained border agents, so make sure your visa stamp or your [I-94](https://i94.cbp.dhs.gov/I94/) form correctly reflects your TN status. Some people have been admitted under TN but registered as B-2 (visitor visa) before.
 
 **IMPORTANT:** If your company is providing a legal team to apply for a TN visa for you, ask for a status update 2 months (or at least a 1.5 months) before your start date. Even after they've collected all of your info, it could still take a long time for them to actually file the request for your visa, and it will then take another 15 days to hear back from the USCIS (this is NOT a guaranteed approval, they may ask for more evidence which will result in more time/delay). So you asking for a status update is just to make sure your legal team doesn't uh.. 'forget' about you and file the visa request way too late. Some employers require you to receive your start authorization from the legal team a week prior to your start date, or else your start date will have to be pushed back.
 
