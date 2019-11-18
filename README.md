@@ -190,15 +190,37 @@ But... WTF are all these acronyms? (EPO, PPO, High Deductible)
 
 - [**Traditional IRA**](https://www.irs.gov/retirement-plans/traditional-iras): You can think of a traditional IRA like a RRSP in Canada; it's a tax-deferred retirement account. Generally, you can only withdraw from the IRA after age 59½ without paying a tax penalty, but there are a number of [ther exemptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions) (eg. buying your first home).
 
-- [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar to_ a TFSA, but it has more limitations. Like a TFSA, it's post-tax, but it is subject to the same tax penalties and exemptions as a traditional IRA (only the earnings are taxed the same way as traditional IRA, you can withdraw contributions anytime). The Roth IRA is not currently recognized under US/Canada tax treaty, so the treatment of a Roth if you become a Canadian resident is unclear. Some quick searches indicate that upon moving back to Canada, you must stop contributing to the Roth + declare it as an overseas pension to ensure tax-free growth and disbursements. Note that there is an income cap to use a Roth IRA.
+- [**Roth IRA**](https://www.irs.gov/retirement-plans/roth-iras) **:** A Roth IRA is _similar_ to a TFSA, but it has more limitations. Like a TFSA, it’s post-tax, however the withdrawal of any accrued earnings on the contributions will be subject to the same tax penalties and exemptions as a traditional IRA (contributions will always be withdrawn first penalty-free before “tapping” into the earnings). The Roth IRA is currently recognized under US/Canada tax treaty (Subparagraph 3(b) of Article XVIII).  The tax treaty preserves the continued tax deferral of any accrued earnings and tax-free withdrawal in Canada given that the following criteria were satisfied: 
+	1) No contributions were made to the Roth IRA while being a Canadian tax resident; 
+	2) A one-time election under paragraph 7 of Article XVIII to defer any taxation in Canada was filed upon return.
 
 ### Various Pre-tax deductions
 
   - **Commuter Subsidy**: Many companies offer a pre-tax commuter account, which allows you to allocate pre-tax dollars towards commutes (usually transit, Uber Pool, Lyft Shared). Some even provide a monthly amount as a benefit.
 
-  - **Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next. _Note:_ There is also a dependent-care FSA that is subject to different rules, which is not covered here, and FSAs are not available with all healthcare plans.
+  - **Flexible Savings Account (FSA):** A FSA is an account which allows you to set aside pre-tax dollars towards healthcare costs not paid for by insurance (ie. copays, coinsurance, deductibles, etc.). Employers may allow you to rollover up to $500 from one year to the next. You can generally pay using your FSA account if they belong in this [list of approved expenses](https://en.wikipedia.org/wiki/FSA_Eligibility_List).
+  
+ Keep in mind you can only change your FSA contributions during your benefit enrollment periods, so once you change your amounts you can't change it until a major lifetime event or the next enrollment period (usually a year from now)!
+  
+  _Note:_ There is also a dependent-care FSA that is subject to different rules, which is not covered here, and FSAs are not available with all healthcare plans.
 
   - **Health Savings Account (HSA)**: A HSA is similar to a FSA in that you can save pre-tax dollars for healthcare expenses, with the difference that contributions are rolled over year-to-year. Your employer may contribute to your account under eligible healthcare plans.
+ 
+Normally, a special debit card will be provided, allowing you to pay for any qualified expenses directly from your HSA account
+Alternatively, you may reimburse yourself by withdrawing from your HSA bank account. This is useful when: 
+1) You forgot to pay with the HSA debit card or did not have it on you.
+
+2) You have incurred international eligible expenses (exception: prescriptions drugs purchased abroad must be consumed abroad to be considered an eligible expense). Use an appropriate spot FX on the day of the payment for currency conversion purposes.
+
+You may reimburse yourself retroactively for any eligible expenses that occurred after the establishment of the HSA. So there is no need to wait for your HSA to accumulate before buying that new pair of glasses or getting that massage.
+
+You may invest the money in your HSA once it is over a certain threshold (e.g. 1k). Investment options will be similar to that of a 401k and would likely be limited to fixed income and indices.
+
+Non eligible expenses will be subject to income tax plus a 20% withdrawn penalty.
+
+Once you turn 65, there is no longer any penalty for withdrawing from your HSA for non-eligible expenses, although you will have to pay income taxes on the withdrawals (eligible expenses can still be withdrawn tax free)
+
+
 _Note_: HSAs are usually only available with High Deductible Health Plans (HDHPs).
 
 
@@ -213,6 +235,6 @@ Did we miss something? Please help out by submitting issues or PRs over at [Gith
 ## 🙌 Wall of love
 
 💖goes to:
-Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji, Jacob Moore, Ambareesh Balaji for collaborating on this guide!
+Yu Chen Hou, Deon Hua, Ruo Tai Sun, Rongzhao Li, Alex Madrzyk, Wendy Lu, Justin Paulin, Raymond Ji, Jacob Moore, Ambareesh Balaji, Yiteng Zhang for collaborating on this guide!
 
 Made with ❤️ in beautiful, downtown, San Francisco.
