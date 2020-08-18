@@ -23,7 +23,7 @@ Appointment does not mean you will be seen at that exact time, but it does let y
 
 As TN/H1 visa holders it is unclear if we are eligible to get a Real ID, but you do not have to opt in for it if you choose not to. Sometimes the clerks at the DMV will refuse to give you one. Having a Real ID or not is really not a big deal, because your passport, NEXUS card, or Canadian driver's license can all act as one when you need to board a flight.
 
-Some people have encountered issues getting their passport scanned at the appointment, asking them to try again helps, but they might have to send your passport to the headquarters in Sacramento which is not great.
+Some people have encountered issues getting their passport scanned at the appointment, asking them to try again helps, but they might have to send your passport photocopy to the headquarters in Sacramento which is not great, as it will mean a long processing time.
 
 ### Aceing your knowledge test
 After your initial paperwork appointment, you can do your written test. You can come back for it, or do it as part of the same DMV visit. The knowledge test is extremely easy and consists of a number of multiple choice questions on a computer. You can read more about it, and see some sample. questions [here](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/).
