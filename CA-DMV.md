@@ -6,7 +6,7 @@ If you already have a Canadian driver's license, the good news is that you are g
 
 California does not accept international license transfers, even if you have an international driver's permit. So regardless of your driving ability, you will have to go through the whole new driver licensing process. Plus, the process is extremely confusing and inconsistent depending on which DMV you go to, or even who is serving you.
 
-Unfortunately, the image of dealing with the DMV in popular culture isn't exaggerated. Getting your license can be frustrating and you might hit arcane setbacks. So, hopefully this guide can help demystify the process for you.
+Unfortunately, the image of dealing with the DMV in popular culture isn't exaggerated. Getting your license can be frustrating and you might hit arcane setbacks. Worse yet, calling the DMV often means being put on hold for hours. So, hopefully this guide can help demystify the process for you.
 
 ## Getting your license in 3 ~EZ~ extremely painful steps
 
