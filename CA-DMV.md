@@ -6,6 +6,8 @@ If you already have a Canadian driver's license, the good news is that you are g
 
 California does not accept international license transfers, even if you have an international driver's permit. So regardless of your driving ability, you will have to go through the whole new driver licensing process. Plus, the process is extremely confusing and inconsistent depending on which DMV you go to, or even who is serving you.
 
+If you already have an American license, then great, you can just get it transfered through a visit to the DMV. Otherwise, you are about to get on a wild ride.
+
 Unfortunately, the image of dealing with the DMV in popular culture isn't exaggerated. Getting your license can be frustrating and you might hit arcane setbacks. Worse yet, calling the DMV often means being put on hold for hours. So, hopefully this guide can help demystify the process for you.
 
 ## Getting your license in 3 ~EZ~ extremely painful steps
@@ -19,7 +21,7 @@ Even if you uploaded your documents online, you will still need to bring them in
 
 Appointment does not mean you will be seen at that exact time, but it does let you skip the line. Do not queue up in the big line if you have an appointment!
 
-As TN/H1 visa holders we are eligible to get a Real ID, but you do not have to opt in for it if you choose not to. Sometimes the clerks at the DMV will refuse to give you one.
+As TN/H1 visa holders it is unclear if we are eligible to get a Real ID, but you do not have to opt in for it if you choose not to. Sometimes the clerks at the DMV will refuse to give you one. Having a Real ID or not is really not a big deal, because your passport, NEXUS card, or Canadian driver's license can all act as one when you need to board a flight.
 
 Some people have encountered issues getting their passport scanned at the appointment, asking them to try again helps, but they might have to send your passport to the headquarters in Sacramento which is not great.
 
