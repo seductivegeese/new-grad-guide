@@ -26,7 +26,7 @@ As TN/H1 visa holders it is unclear if we are eligible to get a Real ID, but you
 Some people have encountered issues getting their passport scanned at the appointment, asking them to try again helps, but they might have to send your passport photocopy to the headquarters in Sacramento which is not great, as it will mean a long processing time.
 
 ### Aceing your knowledge test
-After your initial paperwork appointment, you can do your written test. You can come back for it, or do it as part of the same DMV visit. The knowledge test is extremely easy and consists of a number of multiple choice questions on a computer. You can read more about it, and see some sample. questions [here](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/).
+After your initial paperwork appointment, you can do your written test. You can come back for it, or do it as part of the same DMV visit. The knowledge test is extremely easy and consists of a number of multiple choice questions on a computer. You can read more about it, and see some sample. questions [here](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/), or [here](https://driving-tests.org/california/)!
 
 Once you pass the knowledge test, you will be directed to get a picture taken, and a learner's permit will be given to you.
 
