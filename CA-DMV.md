@@ -17,11 +17,11 @@ You must first make [an appointment](https://www.dmv.ca.gov/portal/make-an-appoi
 
 Even if you uploaded your documents online, you will still need to bring them in-person to the DMV for validation! So bring them over or you'll have to go back again!
 
-Appointment does not mean you will be seen at that exact time, but it does let you skip the line.
+Appointment does not mean you will be seen at that exact time, but it does let you skip the line. Do not queue up in the big line if you have an appointment!
 
 As TN/H1 visa holders we are eligible to get a Real ID, but you do not have to opt in for it if you choose not to. Sometimes the clerks at the DMV will refuse to give you one.
 
-
+Some people have encountered issues getting their passport scanned at the appointment, asking them to try again helps, but they might have to send your passport to the headquarters in Sacramento which is not great.
 
 ### Aceing your knowledge test
 After your initial paperwork appointment, you can do your written test. You can come back for it, or do it as part of the same DMV visit. The knowledge test is extremely easy and consists of a number of multiple choice questions on a computer. You can read more about it, and see some sample. questions [here](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/).
@@ -33,6 +33,18 @@ Once you pass the knowledge test, you will be directed to get a picture taken, a
 
 The driving test is probably the most complicated part of the process. Your first obstacle would be to [obtain an appointment](https://www.dmv.ca.gov/wasapp/foa/findDriveTest.do) with the DMV. They are farily overbooked with the behind-the-wheel tests and you can expect to wait weeks for an available time slot for your test.
 
-Try to book for a slot earlier in the day, because once again, the appointment time does not mean you will be doing your test at the time. If there's a backlog of drivers in front of you, you might be asked to wait, and potentially have to come back another time if you cannot start your test before 4:30 PM.
+Try to book for a slot earlier in the day, because once again, the appointment time does not mean you will be doing your test at the time. If there's a backlog of drivers in front of you, you might be asked to wait, and potentially have to come back another time if you cannot start your test before 4:30 PM. The DMV is also not open on Sundays, so you will likely have to take your test sometime in the weekday, unless if you are lucky enough to score a Saturday test slot.
 
-Once you have your appointment booked, you need to consider some logistical hurdles. Since you are 
+Once you have your appointment booked, you need to consider some logistical hurdles. Since you are _technically_ a driver with a learner's license, you are supposed to drive to the DMV for your test with an adult driver with the California license, even if you have a foreign driver's license. The enforcement of this rule is *very* inconsistent. The author of this guide has called the DMV for advice, and was informed that you can just drive yourself as a Canadian driver, however, the clerks at the DMV have rejected people for not bringing an extra driver. So, it's better to play it safe and bring a friend or coworker for your test.
+
+You will also be required to bring a vehicle to do the test with. It can be your car, a friend's car (but they have to come with you), a rental car, or acquiring a car through a driving school/service like YoGov. If you choose to bring you or a friend's car, you will need to bring the car registration and insurance documentation. 
+
+You can rent a car for the test, but you need to rent through a car rental company that allows their cars to be used for tests. You will need the car rental clerk but you will need to ask them to provide you with a letter explicitly allowing the car to be used for a test, and opt-in for all insurance packages. I've had success renting through Hertz for my test. You will have to show your rental agreement, proof of insurance (your rental agreement should have this), and the letter when you visit the DMV.
+
+On the day of your test, you will need to show up (slightly) early to the DMV. You will need to first get your papers verified by a clerk, who will then give you instructions for the next steps. You will then drive your car to the test area and wait for a examiner to get in your car. 
+
+The driving test is fairly easy, and involves some maneuvers like switching lanes, making some turns at intersections and stop signs, and backing up your car. There are no highway or parallel parking components to the test. You should expect to be driving for about 15 to 20 minutes for the test from the start to the end.
+
+Once you have finished the test, you will be given a temporary paper license and your actual license will come in the mail! The expiration date on the license will be set to the same time your visa is set to expire.
+
+
