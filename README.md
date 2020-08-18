@@ -119,6 +119,7 @@ Generally you need to get a resident state license ASAP in order to continue dri
     - You have 10 days after becoming a resident to re-do all of your tests and obtain a new license
     - Wait time is more than a month at DMVs for driving test, writing test can be done walk-in
     - At least for CA, you could be handed a hefty fine ($1000) if you're caught driving with an out-of-state license while living there.
+    - We have a comprehensive guide for future California residents! Check it out [here](https://seductivegeese.github.io/new-grad-guide/CA-DMV)!
   - New York State
     - Why are you getting a driver's license?
     - You have 30 days after becoming a resident to transfer your Canadian license to a NY one
