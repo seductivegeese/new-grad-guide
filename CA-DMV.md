@@ -15,7 +15,7 @@ Unfortunately, the image of dealing with the DMV in popular culture isn't exagge
 
 ### Getting your paperwork in order
 
-You must first make [an appointment](https://www.dmv.ca.gov/portal/make-an-appointment/) with the DMV, [fill your application](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/) online, and optionally upload your documents ahead of time. To be able to apply for a license, you must supply a proof of residency, and of legal presence (list [here](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/how-do-i-get-a-real-id/real-id-checklist/)). Some examples of documents you need to bring are your lease, *original* SSN, visa documentation, passport, and your application.
+You must first make [an appointment](https://www.dmv.ca.gov/portal/make-an-appointment/) with the DMV, [fill your application](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/) online, and optionally upload your documents ahead of time. To be able to apply for a license, you must supply a proof of residency, and of legal presence (list [here](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/how-do-i-get-a-real-id/real-id-checklist/)). Some examples of documents you need to bring are your lease, *original* SSN (or W-2), visa documentation, passport, and your application.
 
 Even if you uploaded your documents online, you will still need to bring them in-person to the DMV for validation! So bring them over or you'll have to go back again!
 
