@@ -76,7 +76,7 @@ Now for the rest of us, generally speaking you are not allowed to moonlight or d
 
 If you're coming on a TN visa, you will need to have Canadian or Mexican citizenship, this is a nice option as H1-B visas are harder to get. You also need to have a job offer with a qualified job description (not all jobs are under TN, there is a list of jobs that qualify), and a degree that is relevant for that job. So unfortunately you cannot work as a designer if you have an AFM degree, for example, no matter your past work experience. 
 
-This visa is valid for a couple of years (up to 3), and can be renewed. Although it is not considered an immigration track visa (you're a nonimmigrant resident alien), so they may start to question your immigration intent if you renew it too often. This visa is also not considered dual-intent (ie. you can't apply for immigration status or green card and be on the TN visa at the same time, although there are many technicalities about this statement we won't get to here). Therefore, many people would consider doing a switch to H1-B while on the TN visa to work around these limitations. It's definitively something you should talk about with your employer if you intend to stay in the US in the long term.
+This visa is valid for a couple of years (up to 3), and can be renewed. Although it is not considered an immigration track visa (you're a nonimmigrant resident alien), so they may start to question your immigration intent if you renew it too often. This visa is also not considered dual-intent (ie. you can't apply for immigration status or green card and be on the TN visa at the same time, although there are many technicalities about this statement). Therefore, many people would consider doing a switch to H1-B while on the TN visa to work around these limitations. It's definitively something you should talk about with your employer if you intend to stay in the US in the long term.
 
 Also, consider setting your employment start date at least a month after your convocation date. While TN visa could technically be applied at the border with your offer letter and diploma, you risk getting rejected especially if the border agent think your degree is irrelevant for the job. **This is especially common for Computer Science students with a Software Engineering job offer.** 
 
@@ -85,6 +85,99 @@ Most companies will sponsor your TN visa and file a petition on your behalf for 
 If you're applying at the border (rather than getting pre-approval from the US gov't) and you're from the Toronto area, the lawyers at EIG recommended going through Fort Erie, aka Peace Bridge, because Pearson and Detroit land crossing have a high rejection rate. I've been there and it's pretty hectic so get there super early if you're flying from Buffalo! Make sure to call ahead to see when the TN officers will be available, because sometimes they only work monday - friday 9-5 and if you arrive on the weekend, you'll be there for a long time. There's also a US [CBP Deferred Inspection](https://www.cbp.gov/contact/ports/deferred-inspection-sites) office in SF that will change your work status if they misclassify you at the border. This could happen mistakenly by untrained border agents, so make sure your visa stamp or your [I-94](https://i94.cbp.dhs.gov/I94/) form correctly reflects your TN status. Some people have been admitted under TN but registered as B-2 (visitor visa) before.
 
 **IMPORTANT:** If your company is providing a legal team to apply for a TN visa for you, ask for a status update 2 months (or at least a 1.5 months) before your start date. Even after they've collected all of your info, it could still take a long time for them to actually file the request for your visa, and it will then take another 15 days to hear back from the USCIS (this is NOT a guaranteed approval, they may ask for more evidence which will result in more time/delay). So you asking for a status update is just to make sure your legal team doesn't uh.. 'forget' about you and file the visa request way too late. Some employers require you to receive your start authorization from the legal team a week prior to your start date, or else your start date will have to be pushed back.
+
+***Adjustment of Status from TN to Permanent Residency (Green Card) visa***
+
+****Permanent residency advantages****
+- Can live, work (unrestricted), study forever in the US
+- Can sponsor children and spouse for green cards
+- Can own firearms in certain states
+- Can make political campaign contributions
+- No longer subject to export controls
+- After 3 years (if married to a citizen), or 5 years otherwise, could apply for citizenship
+- Social security benefits when eligible
+- Better rates for loans/mortgages
+
+****Permanent residency disadvantages****
+- If male between 18-25 you need to sign up for the selective service (draft)
+- Abide by trade sanctions/travel restrictions to Cuba
+- Become a US tax resident (taxed on all income no matter where you reside) if not already
+- Can't leave the US for more than 6 months without questioning, 1 year with questioning.
+
+****Nonimmigrant intent****
+
+Although the TN is a nonimmigrant visa, it's possible to adjust status after 90 days after the *most recent* entry to the US to that of a lawful permanent resident (green card holder). As a single intent visa holder, you are allowed to [change your mind after 90 days](https://self-lawyer.com/90-day-rule/#What_is_the_90_Day_rule) when you're in the US, so long as you genuinely had the original intention of leaving at the time of your latest entry. If you decide to apply for permanent residency, you'll demonstrate immigrant intent which would prevent you from applying for another TN visa (or potentially another nonimmigrant visa in the future).
+
+****Backlogged countries****
+
+TLDR: If you're born in mainland China or India, get the H-1B first, you likely can't directly apply from TN to permanent residency, unless you're born in Canada/rest of world. 
+
+The time required to directly adjusting status from TN to permanent residency varies depending on your country of birth (country of chargeability) and your preference category. For this guide we're assuming you're adjusting status based off of employment. The preference category likely applicable to you are the [EB-2 (2nd preference)](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2) and [EB-3 (3rd preference)]( https://www.uscis.gov/forms/explore-my-options/eb-3-employment-based-immigration-skilled-workers-professionals-and-other-workers). EB-2 generally requires a bachelors along with either a US (or foreign equivalent) masters or 5 years of progressive experience (after the bachelors). EB-3 generally requires either a bachelors degree or just 2 years of experience. In order for you to apply for permanent residency and immigrant visa needs to be immediately available to you. People born in China face a 5+ year wait time and people born in India face a 10+ year wait time (even if you're a Canadian citizen) which would exceed the validity of a single TN. Refer to the [state department's visa bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html) for the latest updates.
+
+****Required Documents****
+1. Birth certificate
+2. All available passports used to enter the US
+3. Proof of maintaining status in the US if applicable, all I-94s available, all J-1 related documentation (DS-2019, I-797), all TN related documentation (I-797), etc.
+4. Police and court records if applicable
+5. Vaccination records
+6. Parents' birth certificates (to reference information)
+7. University degree and transcripts
+8. US tax returns/transcripts
+9. US paystubs
+
+For a full list refer to [I-485 checklist](https://www.uscis.gov/i-485Checklist).
+
+****Steps****
+1. PERM
+2. Gathering employment verification letters
+3. File the I-140
+4. File the I-485
+5. File for the I-131
+6. File for the I-765
+7. Complete the medical exam
+8. File the I-693
+9. Attend your biometrics appointment
+10. Attend your interview (if scheduled)
+
+****PERM****
+
+Via Program Electronic Review Management (PERM), the Department of Labor must certify that there aren't enough US workers able, willing, qualified, and available to accept the proposed job opportunity that you intend on taking permanently. Your employer will get the prevailing wage from the DOL, figure out the minimum requirements for the job, and advertise this job publicly to US workers. If a US worker is found, then this step needs to be restarted. If no workers are found, then form ETA 9089 (Application for Permanent Employment Certification)can be submitted to the DOL for certification. This step takes 160 days for PWD, 30-60 days for the ad campaign, ETA 9089 processing takes 6 months+. https://www.dol.gov/agencies/eta/foreign-labor/programs/permanent
+
+****Gathering employment verification letters****
+
+You'll need to reach out to old employers to get employment verification letters prepared on company letterhead signed by your manager/supervisor at the time to provide details about your previous employment.
+
+****File the I-140****
+
+After the form ETA 9089 has been approved by the DOL, and you have your experience letters, you can file the [I-140](https://www.uscis.gov/i-140), Immigrant Petition for Alien Worker, to USCIS. This form provides information about the proposed job duties, the worksite, and your relationship to the employer. This step takes 6 months+ in processing time, though you can pay a premium processing fee, $2,500, to get a decision within 2 weeks. If your I-140 is approved, this secures your [priority date](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates). Filing the I-140 might demonstrate that you have immigrant intent, check with your lawyer if you plan on leaving the US.
+
+****File the I-1485****
+
+On a visa bulletin, if your preference category EB-3, EB-2, is "current" or the date listed is after your priority date, you can file the I-485. If your priority date is not current you'll have to wait. This wait time depends on your county of birth, i.e. people born in India have a 10 year+ wait and people in China have a 5+ year wait (despite being Canadian citizens). If you're born in Canada, there's generally no wait time. The [I-485](https://www.uscis.gov/i-485), is the Application to Register Permanent Residence or Adjust Status. This form will examine your entire immigration history to the US for inadmissabilities, ask for biographical information about you, ask for past residence and employment history, information about your parents, 60+ questions about crimes, i.e. prostitution, drugs, terrorism, murder etc. Filing the I-485 signals strong immigrant intent, so you can no longer renew a TN or depart the US (since you won't be allowed back in).
+
+****File the I-131****
+
+The [I-131](https://www.uscis.gov/i-131), is the advanced parole (AP) document, granting you permission to exit the US and re-enter. Note, if you choose to depart the US you'll reenter using AP, so you won't be in TN status. This distinction is important, if your I-485 is denied, you'll be immediatley out of status (deportable) since your AP is no longer valid, however, if you remain on your TN, then you still have a valid status. With an H-1B, a dual intent visa, you could freely depart the US and re-enter on an H-1B, unlike a TN, so the AP might not be necessary.
+
+****File the I-765****
+
+The [I-765](https://www.uscis.gov/i-765), is the employment authorization document (EAD), granting you unrestricted work authorization in the US. This is useful if your TN expires before your I-485 is approved/denied, so that you can continue employment.
+
+****File the I-693/Go to the medical exam****
+
+The [I-693](https://www.uscis.gov/i-693), is the medical examination and vaccination record, completed by a [civil surgeon](https://www.uscis.gov/tools/designated-civil-surgeons) who will physically examine you for health issues. The civil surgeon will also check your vaccination records to see if it complies with US standards, if not, you might need to get some shots. The medical exam fee is around $300. https://my.uscis.gov/findadoctor
+
+****Attend your biometrics appointment****
+
+USCIS will schedule a [biometrics appointment](https://www.uscis.gov/forms/filing-guidance/preparing-for-your-biometric-services-appointment), to take photos of you and get your fingerprints. The photos taken will be the one printed on your green card. Missing your appointment could lead to the denial of your I-485 application, try to reschedule in advance if necessary.
+
+****Attend your interview****
+
+You might be interviewed under oath by a USCIS officer. The [interview](https://www.fragomen.com/insights/update-employment-based-adjustment-interviews-what-foreign-nationals-need-to-know.html) will go over your I-485 in detail and is an opportunity for you to make corrections/updates. Bring the suggested docs to your interview. Within a month, there should be a decision on your case, if approved, your green card will arrive in your mail within 2 weeks of case approval.
+
+Caveats:
+- Materially changing your job/company during the process could restart the green card application, consult with your immigration lawyer before any change. https://www.uscis.gov/policy-manual/volume-7-part-e-chapter-5
+- Adjustment of status requires you to be physically present within the US, an alternative is [Consular Processing](https://www.uscis.gov/green-card/green-card-processes-and-procedures/consular-processing) where you can apply for a green card while waiting in Canada.
 
 **H1-B - The visa we keep hearing about in the news**
 
